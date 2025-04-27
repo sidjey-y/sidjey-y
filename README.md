@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Sidjey! 😄</h1>
+<h1 align="center">Hello World! I'm Sidjey! ^__^v </h1>
 <h3 align="center">Student • Future AI Engineer • Full-Stack Developer • ML Lover • Data Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidjey-y&label=Profile%20views&color=0e75b6&style=flat" alt="sidjey-y" /> </p>
