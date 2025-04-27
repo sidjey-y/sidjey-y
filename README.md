@@ -11,11 +11,11 @@
 
 - 🌱 Learning (and occasionally fighting with): **New frameworks, machine learning stuff, and why CSS always has a mind of its own.**
 
-- 🛠 Also Juggling: **Fun side experiments with machine learning — currently trying to teach models to understand everything better than I do.Fun side experiments with machine learning — currently trying to teach models to understand plants better than I do.Fun side experiments with machine learning — currently trying to teach models to understand plants better than I do 🥲**
+- 🛠 Also Juggling: **Fun side experiments with machine learning - currently trying to teach models to understand everything better than I do. 🥲**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidjey-y](https://github.com/sidjey-y)
 
-- 💬 Ask me about: **idk maybe anything**
+- 💬 Ask me about: **huhu dont ask**
 
 - 📫 How to reach me **haboc.carlajoy@gmail.com**
 
