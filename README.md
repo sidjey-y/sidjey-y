@@ -1,25 +1,24 @@
 <h1 align="center">Hello World! I'm Sidjey! ^__^v </h1>
-<h3 align="center">Student • Future AI Engineer • Full-Stack Developer • ML Lover • Data Enthusiast</h3>
+<h3 align="center">Student • Future AI Engineer • Full-Stack Developer (Maybe) • ML Lover • Data Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidjey-y&label=Profile%20views&color=0e75b6&style=flat" alt="sidjey-y" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidjey-y" alt="sidjey-y" /></a> </p>
 
-- 🔭 Currently building: [(A)I Plant - a project where I try to farm smarter, not harder. (Spoiler: it’s mostly me debugging soil sensors at 2AM.)](https://github.com/sidjey-y/ai-plant)
+- 🔭 I am currently doing my project, [(A)I Plant! (still debugging LOLOL)](https://github.com/sidjey-y/ai-plant)
 
-- 🤝 Looking for partners-in-crime for: **Collaborating on AI, ML, and full-stack passion projects (bonus points if it involves cool visuals or weird data sets)**
+- 🤝 **i love weird datasets**
 
-- 🌱 Learning (and occasionally fighting with): **New frameworks, machine learning stuff, and why CSS always has a mind of its own.**
+- 🌱 Learning (and occasionally fighting with) **new frameworks, machine learning stuff, Meta-Learning...**
 
-- 🛠 Also Juggling: **Fun side experiments with machine learning - currently trying to teach models to understand everything better than I do. 🥲**
+- 🛠 Also Juggling **fun side experiments with machine learning - currently trying to teach models to understand everything better than I do!!!! 🥲**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidjey-y](https://github.com/sidjey-y)
 
-- 💬 Ask me about: **huhu dont ask**
+- 💬 **Let's connect @LinkedIn: https://www.linkedin.com/in/cj-haboc/**
 
-- 📫 How to reach me **haboc.carlajoy@gmail.com**
+- 📫 Email me @ **haboc.carlajoy@gmail.com**
 
-- ⚡ Fun Fact **My backup career is either strawberry farming 🍓 or becoming an AI that only recommends the best animated websites.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
