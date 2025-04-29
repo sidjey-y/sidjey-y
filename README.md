@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Sidjey! ^__^v </h1>
-<h3 align="center">Sidjey -> CJ --> Carla Joy</h3>
+<h3 align="center">Sidjey -> CJ --> Carla Joy | Aspiring AI Engineer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidjey-y&label=Profile%20views&color=0e75b6&style=flat" alt="sidjey-y" /> </p>
 
