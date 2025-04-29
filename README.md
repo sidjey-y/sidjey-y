@@ -1,8 +1,6 @@
 <h1 align="center">Hello World! I'm Sidjey! ^__^v </h1>
 <h3 align="center">Sidjey -> CJ --> Carla Joy</h3>
 
-![dbd40b833c5141c40adb457c7e31c58a](https://github.com/user-attachments/assets/1b7f1fc6-041e-442b-961a-080d797f7ce5)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidjey-y&label=Profile%20views&color=0e75b6&style=flat" alt="sidjey-y" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidjey-y" alt="sidjey-y" /></a> </p>
