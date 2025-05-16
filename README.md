@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🍪%20Sidjey%20🍪&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,19,29&height=180&section=header&text=☕︎%20Sidj%20☕︎&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
 
   <h3>
     <img src="https://emoji.discadia.com/emojis/1a151682-d878-42c6-b08c-0a2142d299cc.GIF" width="25">
@@ -165,5 +165,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,19,29&height=100&section=footer" width="100%"/>
 </div>
