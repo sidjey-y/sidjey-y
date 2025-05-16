@@ -26,9 +26,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=sidjey-y&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="profile views" />
   
-  <a href="https://wakatime.com/@sidjey_y">
-    <img src="https://wakatime.com/badge/user/sidjey_y.svg?style=for-the-badge" alt="Wakatime Stats"/>
-  </a>
 </div>
 
 ---
@@ -158,40 +155,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidjey-y&theme=tokyonight&utcOffset=8" width="32%" />
 </div>
 
-## ⏱️ Coding Activity
-
-<div align="center">
-  <a href="https://wakatime.com/@sidjey_y" target="_blank">
-    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=sidjey_y&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777777&theme=tokyonight&layout=compact" width="70%" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://wakatime.com/share/@sidjey_y/d6695a07-3747-438c-9092-9e87fdd24326.svg" width="45%" />
-  <img src="https://wakatime.com/share/@sidjey_y/5cfd8d7e-17e7-4657-bd17-fad8d21d7a2e.svg" width="45%" />
-</div>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sidjey-y&theme=tokyonight&column=7&margin-w=15&no-frame=true" />
 </p>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/sidjey-y/sidjey-y/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-  
-  <h3>🎵 Currently Listening To 🎵</h3>
-  
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=sidjey_y&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=sidjey_y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-  </a>
-</div>
 
 ---
 
