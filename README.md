@@ -3,7 +3,7 @@
 
   <h3>
     <img src="https://emoji.discadia.com/emojis/1a151682-d878-42c6-b08c-0a2142d299cc.GIF" width="25">
-    Sidjey → CJ → Carla Joy | AI Engineer & Data Scientist
+    Sidjey → CJ → Carla Joy | Aspiring AI Engineer & Data Scientist!
     <img src="https://emoji.discadia.com/emojis/24d34ab2-5454-45f7-b1ac-52b9e586ee22.GIF" width="25">
   </h3>
 
