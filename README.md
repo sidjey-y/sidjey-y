@@ -36,17 +36,17 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-> *Building AI models to solve problems I didn't even know existed!*
+> *I love learning*
 
 <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px">
 
 - Currently exploring lahat ng LRT at MRT Station
 - Passionate about riding train
-- Memorizing LRT and MRT stationZ
-- Challenging myself to ride all the LRT and MRT train stationZ
+- Memorizing LRT and MRT station
+- Challenging myself to ride all the LRT and MRT train station
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/cj-haboc/)
 - Reach me at: **haboc.carlajoy@gmail.com**
-- Always commuting with music on!
+- Always commuting
 
 ---
 
