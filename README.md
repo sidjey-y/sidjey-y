@@ -7,7 +7,7 @@
     <img src="https://emoji.discadia.com/emojis/24d34ab2-5454-45f7-b1ac-52b9e586ee22.GIF" width="25">
   </h3>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D63FF&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Architect+%26+Enthusiast;Neural+Network+Designer;Full-Stack+Developer;Data+Scientist;AI+Research+Explorer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D63FF&center=true&vCenter=true&random=false&width=600&lines=LRT2+Station;Antipolo;Marikina-Pasig;Santolan;Katipunan;Anonas;Araneta-Center+Cubao;Betty-Go+Belmonte;Gilmore;J.Ruiz;V.+Mapa;Pureza;Legarda;Recto)](https://git.io/typing-svg)
 
   <div>
     <a href="https://www.linkedin.com/in/cj-haboc/">
