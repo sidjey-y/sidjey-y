@@ -40,13 +40,13 @@
 
 <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px">
 
-- Currently exploring [(A)I Plant!](https://github.com/sidjey-y/ai-plant) (still debugging 😅)
-- Passionate about **discovering and exploring weird datasets**
-- Learning **new frameworks and meta-learning techniques**
-- Challenging myself to **teach models to understand everything better than humans**
+- Currently exploring lahat ng LRT at MRT Station
+- Passionate about riding train
+- Memorizing LRT and MRT stationZ
+- Challenging myself to ride all the LRT and MRT train stationZ
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/cj-haboc/)
 - Reach me at: **haboc.carlajoy@gmail.com**
-- Always coding with music on!
+- Always commuting with music on!
 
 ---
 
