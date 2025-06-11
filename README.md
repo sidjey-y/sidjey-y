@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,6,27&height=180&section=header&text=☕︎%20Sidj%20☕︎&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,6,27&height=180&section=header&text=%20(ಥ﹏ಥ)%20&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
 
   <h3>
     <img src="https://emoji.discadia.com/emojis/1a151682-d878-42c6-b08c-0a2142d299cc.GIF" width="25">
@@ -40,20 +40,20 @@
 
 <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px">
 
-- 🔭 Currently exploring [(A)I Plant!](https://github.com/sidjey-y/ai-plant) (still debugging 😅)
-- 🧠 Passionate about **discovering and exploring weird datasets**
-- 🌱 Learning **new frameworks and meta-learning techniques**
-- 🛠️ Challenging myself to **teach models to understand everything better than humans**
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/cj-haboc/)
-- 📫 Reach me at: **haboc.carlajoy@gmail.com**
-- 🎵 Always coding with music on!
+- Currently exploring [(A)I Plant!](https://github.com/sidjey-y/ai-plant) (still debugging 😅)
+- Passionate about **discovering and exploring weird datasets**
+- Learning **new frameworks and meta-learning techniques**
+- Challenging myself to **teach models to understand everything better than humans**
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/cj-haboc/)
+- Reach me at: **haboc.carlajoy@gmail.com**
+- Always coding with music on!
 
 ---
 
-## 🛠️ My Magical Tech Stack 
+## 🛠️ My Fave Tech Stack 
 
 <div align="center">
-  <h3>⚡ Core Skills & Languages ⚡</h3>
+  <h3> Core Skills & Languages </h3>
 </div>
 
 <table align="center">
@@ -72,7 +72,7 @@
 </table>
 
 <div align="center">
-  <h3>🧠 AI & Data Science 🧠</h3>
+  <h3>AI & Data Science</h3>
 </div>
 
 <table align="center">
@@ -94,7 +94,7 @@
 </table>
 
 <div align="center">
-  <h3>🌐 Web Development & Design 🌐</h3>
+  <h3>Web Development & Design</h3>
 </div>
 
 <table align="center">
@@ -114,7 +114,7 @@
 </table>
 
 <div align="center">
-  <h3>🗄️ Databases & DevOps 🗄️</h3>
+  <h3> Databases & DevOps </h3>
 </div>
 
 <table align="center">
@@ -132,7 +132,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/sidjey-y">
@@ -156,7 +156,7 @@
 </div>
 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sidjey-y&theme=tokyonight&column=7&margin-w=15&no-frame=true" />
