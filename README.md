@@ -1,13 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,6,27&height=180&section=header&text=%20(ಥ﹏ಥ)%20&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
+<h3>
+  <img src="https://emoji.discadia.com/emojis/1a151682-d878-42c6-b08c-0a2142d299cc.GIF" width="25">
+  Hello, I'm Sidjey!
+  <img src="https://emoji.discadia.com/emojis/24d34ab2-5454-45f7-b1ac-52b9e586ee22.GIF" width="25">
+</h3>
 
-  <h3>
-    <img src="https://emoji.discadia.com/emojis/1a151682-d878-42c6-b08c-0a2142d299cc.GIF" width="25">
-    Sidjey → CJ → Carla Joy | Aspiring AI Engineer & Data Scientist!
-    <img src="https://emoji.discadia.com/emojis/24d34ab2-5454-45f7-b1ac-52b9e586ee22.GIF" width="25">
-  </h3>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D63FF&center=true&vCenter=true&random=false&width=600&lines=LRT2+Station;Antipolo;Marikina-Pasig;Santolan;Katipunan;Anonas;Araneta-Center+Cubao;Betty-Go+Belmonte;Gilmore;J.Ruiz;V.+Mapa;Pureza;Legarda;Recto)](https://git.io/typing-svg)
 
   <div>
     <a href="https://www.linkedin.com/in/cj-haboc/">
@@ -50,7 +46,7 @@
 
 ---
 
-## 🛠️ My Fave Tech Stack 
+## My Fave Tools and Frameworks
 
 <div align="center">
   <h3> Core Skills & Languages </h3>
@@ -136,23 +132,23 @@
 
 <p align="center">
   <a href="https://github.com/sidjey-y">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sidjey-y&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sidjey-y&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sidjey-y&count_private=true&show_icons=true&include_all_commits=true&theme=solarized"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sidjey-y&layout=compact&langs_count=7&theme=solarized"/>
   </a>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidjey-y&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="Sidjey's GitHub streak"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidjey-y&theme=solarized&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="Sidjey's GitHub streak"/>
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidjey-y&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidjey-y&theme=solarized" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidjey-y&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidjey-y&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidjey-y&theme=tokyonight&utcOffset=8" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidjey-y&theme=solarized" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidjey-y&theme=solarized" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidjey-y&theme=solarized&utcOffset=8" width="32%" />
 </div>
 
 
@@ -164,6 +160,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,6,27&height=100&section=footer" width="100%"/>
-</div>
