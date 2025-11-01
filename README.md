@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-fff7eb?style=social&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Python-fff7eb?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/JavaScript-fff7eb?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-fff7eb?style=flat&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/C++-fff7eb?style=flat&logo=cplusplus&logoColor=00599C" />
@@ -77,12 +77,12 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-F9F9F9?style=flat&logo=mongodb&logoColor=4EA94B" />
-  <img src="https://img.shields.io/badge/PostgreSQL-F9F9F9?style=flat&logo=postgresql&logoColor=336791" />
-  <img src="https://img.shields.io/badge/MySQL-F9F9F9?style=flat&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Firebase-F9F9F9?style=flat&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/Docker-F9F9F9?style=flat&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/GoogleCloud-F9F9F9?style=flat&logo=google-cloud&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/MongoDB-fff7eb?style=flat&logo=mongodb&logoColor=4EA94B" />
+  <img src="https://img.shields.io/badge/PostgreSQL-fff7eb?style=flat&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/MySQL-fff7eb?style=flat&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Firebase-fff7eb?style=flat&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Docker-fff7eb?style=flat&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/GoogleCloud-fff7eb?style=flat&logo=google-cloud&logoColor=4285F4" />
 </p>
 
 
