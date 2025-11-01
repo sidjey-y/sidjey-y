@@ -23,11 +23,11 @@
 
 ---
 
-<div align="center">
+<div align="justify">
   <h3> Core Skills & Languages </h3>
 </div>
 
-<p align="center">
+<p align="justify">
   <img src="https://img.shields.io/badge/Python-fff7eb?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/JavaScript-fff7eb?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-fff7eb?style=flat&logo=typescript&logoColor=3178C6" />
@@ -38,11 +38,11 @@
   <img src="https://img.shields.io/badge/Rust-fff7eb?style=flat&logo=rust&logoColor=black" />
 </p>
 
-<div align="center">
+<div align="justify">
   <h3> AI & Data Science </h3>
 </div>
 
-<p align="center">
+<p align="justify">
   <img src="https://img.shields.io/badge/TensorFlow-fff7eb?style=flat&logo=tensorflow&logoColor=FF6F00" />
   <img src="https://img.shields.io/badge/PyTorch-fff7eb?style=flat&logo=pytorch&logoColor=EE4C2C" />
   <img src="https://img.shields.io/badge/Keras-fff7eb?style=flat&logo=keras&logoColor=D00000" />
@@ -56,11 +56,11 @@
   <img src="https://img.shields.io/badge/HuggingFace-fff7eb?style=flat&logo=huggingface&logoColor=FFD21E" />
 </p>
 
-<div align="center">
+<div align="justify">
   <h3> Web Development & Design </h3>
 </div>
 
-<p align="center">
+<p align="justify">
   <img src="https://img.shields.io/badge/React-fff7eb?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-fff7eb?style=flat&logo=angular&logoColor=DD0031" />
   <img src="https://img.shields.io/badge/Vue.js-fff7eb?style=flat&logo=vuedotjs&logoColor=4FC08D" />
@@ -72,11 +72,11 @@
   <img src="https://img.shields.io/badge/Figma-fff7eb?style=flat&logo=figma&logoColor=F24E1E" />
 </p>
 
-<div align="center">
+<div align="justify">
   <h3> Databases & DevOps </h3>
 </div>
 
-<p align="center">
+<p align="justify">
   <img src="https://img.shields.io/badge/MongoDB-fff7eb?style=flat&logo=mongodb&logoColor=4EA94B" />
   <img src="https://img.shields.io/badge/PostgreSQL-fff7eb?style=flat&logo=postgresql&logoColor=336791" />
   <img src="https://img.shields.io/badge/MySQL-fff7eb?style=flat&logo=mysql&logoColor=4479A1" />
@@ -90,13 +90,13 @@
 
 ## GitHub Analytics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidjey-y&theme=solarized" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidjey-y&theme=zenburn" width="90%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidjey-y&theme=solarized" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidjey-y&theme=solarized" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidjey-y&theme=solarized&utcOffset=8" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidjey-y&theme=zenburn" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidjey-y&theme=zenburn" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidjey-y&theme=zenburn&utcOffset=8" width="32%" />
 </div>
 
 ## GitHub Trophies
