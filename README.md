@@ -23,11 +23,11 @@
 
 ---
 <!-- Core Skills & Languages -->
-<div align="justify">
+<div align="left">
   <h3> Core Skills & Languages </h3>
 </div>
 
-<p align="justify">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-fff7eb?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Java-fff7eb?style=flat&logo=openjdk&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/JavaScript-fff7eb?style=flat&logo=javascript&logoColor=F7DF1E" />
@@ -44,11 +44,11 @@
 </p>
 
 <!-- AI & Data Science -->
-<div align="justify">
+<div align="left">
   <h3> AI & Data Science </h3>
 </div>
 
-<p align="justify">
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-fff7eb?style=flat&logo=tensorflow&logoColor=FF6F00" />
   <img src="https://img.shields.io/badge/PyTorch-fff7eb?style=flat&logo=pytorch&logoColor=EE4C2C" />
   <img src="https://img.shields.io/badge/Keras-fff7eb?style=flat&logo=keras&logoColor=D00000" />
@@ -68,11 +68,11 @@
 </p>
 
 <!-- Web Development -->
-<div align="justify">
+<div align="left">
   <h3> Full-Stack & Web Development </h3>
 </div>
 
-<p align="justify">
+<p align="left">
   <img src="https://img.shields.io/badge/React.js-fff7eb?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-fff7eb?style=flat&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-fff7eb?style=flat&logo=angular&logoColor=DD0031" />
